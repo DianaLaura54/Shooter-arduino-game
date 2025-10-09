@@ -13,6 +13,6 @@ Collision detection between player/obstacles and bullets/obstacles.
 Game restarts only when lives reach 0 and "R" is received.
 Reuses objects for efficiency.
 
-Technologies Used:
+Technologies Used: Python and
 Processing (Java): Game logic, rendering, and serial communication.
 micro:bit: Accelerometer input and button controls.
